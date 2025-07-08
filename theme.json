@@ -12,7 +12,7 @@
     "HEADER_SECONDARY": ["#a89984"],
     "TEXT_NORMAL": ["#ebdbb2"],
     "TEXT_MUTED": ["#a89984"],
-    "TEXT_PRIMARY": ["#D1D4EE"],
+    "TEXT_PRIMARY": ["#C4CADF"],
     "INTERACTIVE_NORMAL": ["#fe8019"],
     "INTERACTIVE_HOVER": ["#fb4934"],
     "INTERACTIVE_ACTIVE": ["#fd7f19"],
